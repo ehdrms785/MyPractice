@@ -1,0 +1,23 @@
+{
+  "name": "mypractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "gh-pages": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+      "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehdrms785/MyPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ehdrms785/MyPractice/issues"
+  },
+  "homepage": "https://ehdrms785.github.io/MyPractice"
+}
